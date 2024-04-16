@@ -30,3 +30,5 @@ print("%.2f"%distance)
 
 
 ### RESULT:
+
+Therefore, program to finf the distance between two points is written and executed successfully.

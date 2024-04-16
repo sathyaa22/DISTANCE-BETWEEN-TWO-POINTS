@@ -11,10 +11,11 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 5: 
 ### PROGRAM:
   
-'''Distance between two points
-Developed by: SATHYAA R
-Register number: 212223100052
-'''
+Distance between two points
+
+Developed by: RAMYA R
+Register number: 212223230169
+
 ```
 import math
 list1=[4,2]
